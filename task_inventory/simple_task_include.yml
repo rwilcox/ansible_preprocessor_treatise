@@ -1,0 +1,4 @@
+
+    - name: test
+      debug:
+        msg: "I'm from this other file!"
